@@ -1,2 +1,0 @@
-# mypage01
-mypage
